@@ -1,0 +1,10 @@
+C:\Users\Jagan\Documents\TestExerciseCode-master\DeveloperTestExercise-master\FileData\obj\Debug\FileData.csprojAssemblyReference.cache
+C:\Users\Jagan\Documents\TestExerciseCode-master\DeveloperTestExercise-master\FileData\obj\Debug\FileData.csproj.CoreCompileInputs.cache
+C:\Users\Jagan\Documents\TestExerciseCode-master\DeveloperTestExercise-master\FileData\bin\Debug\FileData.exe.config
+C:\Users\Jagan\Documents\TestExerciseCode-master\DeveloperTestExercise-master\FileData\bin\Debug\FileData.exe
+C:\Users\Jagan\Documents\TestExerciseCode-master\DeveloperTestExercise-master\FileData\bin\Debug\FileData.pdb
+C:\Users\Jagan\Documents\TestExerciseCode-master\DeveloperTestExercise-master\FileData\bin\Debug\ThirdPartyTools.dll
+C:\Users\Jagan\Documents\TestExerciseCode-master\DeveloperTestExercise-master\FileData\bin\Debug\ThirdPartyTools.pdb
+C:\Users\Jagan\Documents\TestExerciseCode-master\DeveloperTestExercise-master\FileData\obj\Debug\FileData.csproj.CopyComplete
+C:\Users\Jagan\Documents\TestExerciseCode-master\DeveloperTestExercise-master\FileData\obj\Debug\FileData.exe
+C:\Users\Jagan\Documents\TestExerciseCode-master\DeveloperTestExercise-master\FileData\obj\Debug\FileData.pdb

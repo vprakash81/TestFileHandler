@@ -1,0 +1,5 @@
+C:\Users\Jagan\Documents\TestExerciseCode-master\DeveloperTestExercise-master\ThirdPartyTools\bin\Debug\ThirdPartyTools.dll
+C:\Users\Jagan\Documents\TestExerciseCode-master\DeveloperTestExercise-master\ThirdPartyTools\bin\Debug\ThirdPartyTools.pdb
+C:\Users\Jagan\Documents\TestExerciseCode-master\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.csproj.CoreCompileInputs.cache
+C:\Users\Jagan\Documents\TestExerciseCode-master\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.dll
+C:\Users\Jagan\Documents\TestExerciseCode-master\DeveloperTestExercise-master\ThirdPartyTools\obj\Debug\ThirdPartyTools.pdb
